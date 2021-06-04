@@ -8,4 +8,7 @@ Se avete consigli o dubbi su alcune soluzioni non esitate a contattarmi.
 Buono studio!!
 
 ENG
-"It is better too much than too little", so... here you can see my solution 
+"It is better too much than too little", so... here you can see my solution about labs of this course.
+If they will ever be useful to even one user in the world, well then it's worth leaving these files online.
+Contact me for doubts or alternative solutions, it's always nice to know something new!
+
